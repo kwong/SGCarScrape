@@ -5,7 +5,7 @@ import time
 
 
 import re
-
+#testing
 
 scrape_url="http://www.sgcarmart.com/used_cars/listing.php?RPG=100&CTS[]=18&VTS[]=13&VTS[]=12&VTS[]=11&VTS[]=8&PR2=40&PR1=20&FR=2007&TO=2014"
 
